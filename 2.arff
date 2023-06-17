@@ -1,0 +1,25 @@
+@RELATION users
+
+@ATTRIBUTE averagedist 	REAL
+@ATTRIBUTE class	{Blake, Palo, Mark}
+
+@DATA
+2.5, Blake
+2.7, Blake
+2.2, Blake
+2.1, Blake
+3.0, Blake
+1.9, Palo
+2.2, Palo
+1.8, Palo
+2.0, Palo
+2.1, Palo
+2.9, Mark
+3.0, Mark
+3.2, Mark
+3.3, Mark
+3.0, Mark
+
+%
+%
+%

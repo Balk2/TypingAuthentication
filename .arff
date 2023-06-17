@@ -1,0 +1,26 @@
+@RELATION users
+
+@ATTRIBUTE averagedist 	REAL
+@ATTRIBUTE keyVolume	REAL
+@ATTRIBUTE class	{Blake, Palo, Mark}
+
+@DATA
+2.5, .038, Blake
+2.7, .034, Blake
+2.2, .035, Blake
+2.1, .038, Blake
+3.0, .04, Blake
+1.9, .03, Palo
+2.2, .032, Palo
+1.8, .025, Palo
+2.0, .03, Palo
+2.1, .034, Palo
+2.9, .021, Mark
+3.0, .022, Mark
+3.2, .025, Mark
+3.3, .039, Mark
+3.0, .029, Mark
+
+%
+%
+%
